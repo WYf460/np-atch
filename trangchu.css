@@ -1,0 +1,33 @@
+*{margin: 0px;padding:0px;}
+
+.header {
+	background-color: black;
+}
+.header img{
+	text-align: left;
+}
+.navigation ul {
+  	background: black;
+  	list-style-type: none;
+  	text-align: center;
+}
+.navigation li {
+ 	color: #f1f1f1;
+  	display: inline-block;
+  	width: 120px;
+  	height: 40px;
+  	line-height: 40px;
+  	margin-left: -5px;
+}
+.navigation a {
+  	text-decoration: none;
+  	color: white;
+  	display: block;
+}
+.navigation a:hover {
+	background-color: #DCDCDC;
+  	color: #800000;
+}
+.footer hr{
+	color: white;
+}
